@@ -1,0 +1,132 @@
+[
+  {
+    "id": 1,
+    "question": "How many days of Privilege Leave (PL) does a permanent employee get per year?",
+    "answer": "Permanent employees are entitled to 12 days of Privilege Leave (PL) per calendar year (1st January \u2013 31st December). Leave taken without manager approval will result in salary deduction.\n\nSource: hr_manual.pdf, Page 60, Section: SECTION - IV - [G] Leave Policy",
+    "is_found": true,
+    "sources": [
+      {
+        "source": "hr_manual.pdf",
+        "page": 60,
+        "section": "SECTION - IV - [G] Leave Policy",
+        "snippet": "For Contract employees, the leave will be in accordance to the individual contract signed with the company. \n \u0502During the probation no leave will be credited to employees.\n \u0502All leaves should be approved by the manager on mail.Scope & Eligibility\nPolicy Features\nLeave Type Eligibility Entitlement Encashment Procedure\nPrivilege Leave (PL) -> All permanent\n     employees are \n  eligible to avail PL.\n-> PL is calculat -\ned for a period of \none calendar year           \n(1st Jan-31st Dec)-> 12 days PL is al -\nlowed to each em -\nployee.\n-> Unavailed PL \ncannot be carry- \nforward to next cal -\nendar year.-> An employee \ncan accumulate \nand avail his PL at a \nstretch within a cal -\nendar year."
+      },
+      {
+        "source": "hr_manual.pdf",
+        "page": 61,
+        "section": "SECTION - IV - [G] Leave Policy",
+        "snippet": "HR Manual - 61Leave Type Eligibility Entitlement Encashment Procedure\nCasual Leave (CL) -> All permanent   \n    employees are \n    eligible to avail \nCL.\n-> CL is calculat -\ned for a period of \none calendar year           \n(1st Jan-31st Dec)-> 6 days CL is al -\nlowed to each em -\nployee.\n-> Unavailed CL \ncannot be carry- \nforward to next cal -\nendar year.CL cannot be accu -\nmulated,          en-\ncashed or carried \nforward to the next \ncalendar year.-> All employees are \nrequired to apply for \nCL on mail to their \nmanager at least a \nweek in advance for \napproval.\n-> Leave taken \nwithout manager\u2019s \napproval will be \nconsidered as Unap -\nproved leave leads \nto salary deduction."
+      },
+      {
+        "source": "hr_manual.pdf",
+        "page": 60,
+        "section": "SECTION - IV - [G] Leave Policy",
+        "snippet": "HR Manual - 60[G] Leave Policy\nMeaning/Purpose\nThis policy encourages its employees to take a break from work as this provides healthy,stress free and more \nproductive staff.\nThe leave policy sets out the various types of leaves that an employee is eligible for and outlines the procedure \nfor taking leave.\n \u0502Leave year is as per the calendar year (1st January \u2013 31st December).\n \u0502The different types of leaves covered under this policy are :\n \u00a4Privilege Leave (PL) \u2013 12 days\n \u00a4Casual Leave (CL) \u2013 6 days\n \u00a4Sick Leave (SL) \u2013 6 days\n \u00a4Stress Leave (STL) \u2013 6 days\n \u00a4Maternity Leave (leeway)\n \u0502The policy is applicable for all permanent employees of ENSO GROUP and not for Contract employees."
+      },
+      {
+        "source": "hr_manual.pdf",
+        "page": 19,
+        "section": "SECTION - II - Annexure IV ..................................................................................................... 66",
+        "snippet": "HR Manual - 19All planned leave has to be mutually agreed, and take into account and the employee\u2019s needs. Leave must be \napproved in advance, except when employee can\u2019t anticipate the absence.\nEach employee is entitled to the usual public holidays, together 30 working days in each complete year of the \nemployee\u2019s employment. Leave entitlement are calculated from the date employee started work and annual \nleave counts towards continues service of the employee. To take leave employee must request advance approv -\nal. Request will be reviewed based on a number of factors, including business needs and staffing requirements."
+      }
+    ],
+    "passed": true,
+    "notes": [
+      "Cited page 60 correctly."
+    ]
+  },
+  {
+    "id": 2,
+    "question": "What is the probation period for employees up to Senior Manager?",
+    "answer": "All employees up to Senior Manager are placed on probation for a period of 3 months from the date of their joining. Employees above Senior Manager are treated as confirmed from date of joining.\n\nSource: hr_manual.pdf, Page 42, Section: SECTION - IV - [B] Probation Policy",
+    "is_found": true,
+    "sources": [
+      {
+        "source": "hr_manual.pdf",
+        "page": 42,
+        "section": "SECTION - IV - [B] Probation Policy",
+        "snippet": "HR Manual - 42[B] Probation Policy\nMeaning/Purpose\n     The probationary period is a time for you to learn about your job and become familiar with the Working \nculture of Enso Group. \n     During this time, your supervisor will explain you your department\u2019s policies and procedure, your job \nduties, and your performance expectations. Y our performance will be closely evaluated by your supervisor to \nensure that you understand and are able to meet the performance expectations.                        \n \u0502All employees up to Sr. Manager would be placed in Probation for a period of 3 months from the date of \ntheir joining."
+      },
+      {
+        "source": "hr_manual.pdf",
+        "page": 42,
+        "section": "SECTION - IV - [B] Probation Policy",
+        "snippet": "their joining.\n \u0502All employees above Sr. Manager will be treated as confirmed employees from the date of joining.\n \u0502At the  end  of   the   probation  period the employee  will  be considered for confirmation based on the \nReview Report of the Superior and the respective Departmental Head.Scope & Eligibility\nPolicy Features\nTwo weeks before the end of the \nprobation period a Probation Re -\nview Report (PRR) will be sent to \nthe department head, seeking a \nrecommendation on the confirma -\ntion of the appointment.\n              \nThere are three  possible   recom -\nmendations :\n1. Appointment should be con -\nfirmed as per the due date in \naccordance with the Appoint -\nment Letter."
+      },
+      {
+        "source": "hr_manual.pdf",
+        "page": 43,
+        "section": "SECTION - IV - [B] Probation Policy",
+        "snippet": "HR Manual - 43Remarks\n \u0502During the Probationary Period, the following factors will be closely monitored.\n \u00a4His/her Knowledge, Skills and Deliverables.\n \u00a4His/her Attitude towards work and the organization.\n \u00a4His/her Behaviour with Superiors and Peers.\n \u00a4His/her Ability to adjust to the requirements of the job.\n \u00a4His/her Adherence to the organization culture values and discipline."
+      },
+      {
+        "source": "hr_manual.pdf",
+        "page": 42,
+        "section": "SECTION - IV - [B] Probation Policy",
+        "snippet": "nal probationary period\nTermination of Employment :\nIn reviewing such recommenda -\ntions, the HR department should \ndetermine:\n \u25b6Whether the employee was giv -\nen all the resources to perform.\n \u25b6Whether the probationer had \nreceived adequate supervision \nand instruction to reach the \nexpected standard of perfor -\nmance \nDuring this review the HR depart -\nment may consult with the De -\npartmental  Head, the immediate \nSupervisor or any other person \nconsidered appropriate."
+      }
+    ],
+    "passed": true,
+    "notes": [
+      "Cited page 42 correctly."
+    ]
+  },
+  {
+    "id": 3,
+    "question": "What is the company's health-insurance premium amount?",
+    "answer": "Not found",
+    "is_found": false,
+    "sources": [],
+    "passed": true,
+    "notes": [
+      "Correctly returned exact 'Not found' (strictly grounded)."
+    ]
+  },
+  {
+    "id": 4,
+    "question": "What is the current GST rate in India?",
+    "answer": "Not found",
+    "is_found": false,
+    "sources": [],
+    "passed": true,
+    "notes": [
+      "Correctly returned exact 'Not found' (strictly grounded)."
+    ]
+  },
+  {
+    "id": 5,
+    "question": "How many days of maternity leave are given?",
+    "answer": "The company provides a total of 12 weeks (90 days) of Maternity Leave (ML) with pay for confirmed female staff who have worked for at least 80 days in the preceding 12 months, of which not more than 6 weeks (45 days) should precede expected delivery.\n\nSource: hr_manual.pdf, Page 62, Section: SECTION - IV - [G] Leave Policy",
+    "is_found": true,
+    "sources": [
+      {
+        "source": "hr_manual.pdf",
+        "page": 62,
+        "section": "SECTION - IV - [G] Leave Policy",
+        "snippet": "HR Manual - 62Leave Type Eligibility Entitlement Encashment Procedure\nMaternity Leave \n(Leeway)-> ML shall be   \n available to all \n confirmed female \n staff in accordance \n with the law \n applicable from \n time to time.->Female staff, \nwho have worked \nfor at least 80days \nin preceding \n12months, are enti -\ntled to ML.\n->In case of miscar -\nriage or medical ter -\nmination of preg -\nnancy, four weeks \nleave with pay from \nthe date of miscar -\nriage is permitted \nby producing satis -\nfactory evidence. -> The company \nwill provide a to -\ntal of 12 weeks( -\n90days) as ML with \npay, of which not \nmore than 6 weeks( -\n45days) should \nprecede the expect -\ned date of delivery.\n-> Extension of"
+      },
+      {
+        "source": "hr_manual.pdf",
+        "page": 62,
+        "section": "SECTION - IV - [G] Leave Policy",
+        "snippet": "not affect the project work/delivery deadlines.\n \u0502An employee shall be entitled to leave subject to the application being approved by the reporting \nofficer. The reporting officer shall be the competent authority for approving leaves under this policy. \nHowever, for Maternity Leave the HOD shall be the competent authority to approve the leave.\n \u0502The employee should check the leave balance before applying for the same.\n \u0502Employees and associates are allowed a maximum of 30 days off work premises\n \u0502Leave can be adjusted with prior approval of HOD/Company management\n \u0502Salary will be deducted upon exceeding 30 days."
+      },
+      {
+        "source": "hr_manual.pdf",
+        "page": 62,
+        "section": "SECTION - IV - [G] Leave Policy",
+        "snippet": "more than 6 weeks( -\n45days) should \nprecede the expect -\ned date of delivery.\n-> Extension of \nleave beyond reg -\nular ML will be \nadjusted against \naccumulated leave \nbalance, or treated \nas leave without pay. \nThis is also subject \nto the approval of \nthe concerned re -\nporting authority.-> The employee \nmust apply for ML \nat least one month \nbefore taking leave.\n-> Employee must \nsubmit the Certifi -\ncate of fitness from \nthe Doctor and nec -\nessary documents at \nthe time of return -\ning to service.\nRemarks\n \u0502Leave should be planned in such a way that it does not affect productivity or while on a project does \nnot affect the project work/delivery deadlines."
+      },
+      {
+        "source": "hr_manual.pdf",
+        "page": 56,
+        "section": "SECTION - IV - [C] Punctuality and Attendance",
+        "snippet": "weekends\n \u0502Holiday list to be declared on the 1st Jan of every calender year.\n \u0502Any leave exceeding 30 days shall incur pending reflecting in salary cuts."
+      }
+    ],
+    "passed": true,
+    "notes": [
+      "Cited page 62 correctly."
+    ]
+  }
+]

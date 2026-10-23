@@ -1,0 +1,29 @@
+# Environment files (never commit API keys)
+.env
+*.env
+!.env.example
+
+# Virtual environments
+.venv/
+env/
+venv/
+ENV/
+
+# Python cache & bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+
+# Chroma vector database storage
+db/
+*.chroma
+
+# OS & IDE files
+.DS_Store
+.vscode/
+.idea/
+
+# Streamlit temporary files
+.streamlit/
