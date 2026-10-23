@@ -153,7 +153,7 @@ Open your browser at `http://localhost:8501`.
 
 ## 6. Required Test Questions & Evidence-Backed Answers
 
-All five required exam questions were evaluated against the official Enso Group HR Policy Manual:
+Detailed evidence quotes and policy rules are documented in [docs/assignment_answers.md](docs/assignment_answers.md).
 
 | # | Question | Grounded Answer | Status | Source Page | Policy Section | Evidence Excerpt from Document |
 |---|---|---|---|---|---|---|
@@ -165,7 +165,28 @@ All five required exam questions were evaluated against the official Enso Group 
 
 ---
 
-## 7. Viva Demonstration Guide
+## 7. Application Screenshots (Streamlit UI)
+
+Actual screenshots captured from the running Streamlit web application:
+
+### Question 1: Privilege Leave (PL) Entitlement
+![Question 1: Privilege Leave](screenshots/q1_privilege_leave.png)
+
+### Question 2: Probation Period for Senior Managers
+![Question 2: Probation Period](screenshots/q2_probation_period.png)
+
+### Question 3: Health Insurance Premium (Strict Grounding - Not found)
+![Question 3: Health Insurance Premium](screenshots/q3_health_insurance.png)
+
+### Question 4: GST Rate in India (External Knowledge Refusal - Not found)
+![Question 4: GST Rate in India](screenshots/q4_gst_rate.png)
+
+### Question 5: Maternity Leave Entitlement
+![Question 5: Maternity Leave](screenshots/q5_maternity_leave.png)
+
+---
+
+## 8. Viva Demonstration Guide
 
 When explaining this project to an examiner during a viva:
 
