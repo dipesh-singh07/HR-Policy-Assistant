@@ -2,6 +2,8 @@
 
 A production-grade Retrieval-Augmented Generation (RAG) assistant built over the **Enso Group HR Policy Manual (79 pages)**. The application indexes company policies, retrieves grounded context, cites the exact source page and section, and strictly returns **`Not found`** whenever an answer is not established by the document.
 
+**GitHub Repository:** [https://github.com/dipesh-singh07/HR-Policy-Assistant](https://github.com/dipesh-singh07/HR-Policy-Assistant)
+
 ---
 
 ## 1. Project Objective
